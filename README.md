@@ -4,6 +4,8 @@
 
 This repository contains the Power BI sales dashboard developed for Blinkit, designed to track and analyze sales data in real-time. The dashboard visualizes key performance indicators (KPIs) and provides insights to support decision-making for the sales, marketing, and management teams.
 
+![image](https://github.com/divleen22/BlinkIT_Sales_Dashboard_using_PowerBI/Blinkit_Dashboard.png)
+
 ## Features
 
 - **Interactive Sales Dashboard**: Real-time visualization of Blinkit's sales data with the ability to filter and drill down based on region, product category, and time period.
@@ -23,7 +25,7 @@ This repository contains the Power BI sales dashboard developed for Blinkit, des
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blinkit-sales-dashboard.git
+   https://github.com/divleen22/BlinkIT_Sales_Dashboard_using_PowerBI.git
 2. Open the Power BI project file (.pbix) in Power BI Desktop.
 
 3. Connect to the relevant data sources (Excel, SQL, or APIs) as per the configurations.
